@@ -1,0 +1,17 @@
+{
+  "name": "react-pilot",
+  "version": "1.0.0",
+  "description": "react pilot project",
+  "main": "index.js",
+  "repository": "https://github.com/smilu97/pilot-react",
+  "author": "smilu97",
+  "license": "MIT",
+  "private": false,
+  "scripts": {
+    "start": "parcel src/index.html"
+  },
+  "devDependencies": {
+    "parcel-bundler": "^1.12.5",
+    "typescript": "^4.3.5"
+  }
+}
